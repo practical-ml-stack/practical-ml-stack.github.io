@@ -118,7 +118,7 @@ Every use case includes:
 <div class="badge-container" markdown>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/practical-ml-stack/practical-ml-stack.github.io/blob/main/notebooks/churn-modelling.ipynb)
-[![Download Notebook](https://img.shields.io/badge/Download-Notebook-blue?logo=jupyter)](notebooks/churn-modelling.ipynb)
+[![Download Notebook](https://img.shields.io/badge/Download-Notebook-blue?logo=jupyter)](https://github.com/practical-ml-stack/practical-ml-stack.github.io/raw/main/notebooks/churn-modelling.ipynb)
 
 </div>
 

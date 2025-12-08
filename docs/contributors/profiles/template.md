@@ -30,7 +30,7 @@ description: Template for contributor profiles
 
 | Use Case | Description | Date |
 |----------|-------------|------|
-| [Use Case Name](../../use-cases/example/index.md) | Brief description | Month Year |
+| Use Case Name | Brief description | Month Year |
 
 ---
 

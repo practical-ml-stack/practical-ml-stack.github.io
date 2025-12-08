@@ -70,8 +70,7 @@ plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
       lang: en
-  - tags:
-      tags_file: tags.md
+  - tags
 
 # Markdown Extensions
 markdown_extensions:
