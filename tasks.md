@@ -20,7 +20,7 @@ This document tracks the implementation progress for building the Practical ML S
 
 | Task | File | Status |
 |------|------|--------|
-| 2.1 | Create `docs/index.md` with introduction and value proposition | ⬜ Pending |
+| 2.1 | Create `docs/index.md` with introduction and value proposition | ✅ Completed |
 
 ---
 
@@ -28,8 +28,8 @@ This document tracks the implementation progress for building the Practical ML S
 
 | Task | File | Status |
 |------|------|--------|
-| 3.1 | Create `docs/getting-started/index.md` (prerequisites, audience) | ⬜ Pending |
-| 3.2 | Create `docs/getting-started/environment.md` (setup guide) | ⬜ Pending |
+| 3.1 | Create `docs/getting-started/index.md` (prerequisites, audience) | ✅ Completed |
+| 3.2 | Create `docs/getting-started/environment.md` (setup guide) | ✅ Completed |
 
 ---
 
@@ -37,12 +37,12 @@ This document tracks the implementation progress for building the Practical ML S
 
 | Task | File | Status |
 |------|------|--------|
-| 4.1 | Create `docs/use-cases/index.md` (overview of all use cases) | ⬜ Pending |
-| 4.2 | Create `docs/use-cases/churn-modelling/index.md` (problem overview) | ⬜ Pending |
-| 4.3 | Create `docs/use-cases/churn-modelling/data.md` (data understanding) | ⬜ Pending |
-| 4.4 | Create `docs/use-cases/churn-modelling/features.md` (feature engineering) | ⬜ Pending |
-| 4.5 | Create `docs/use-cases/churn-modelling/modelling.md` (model building) | ⬜ Pending |
-| 4.6 | Create `docs/use-cases/churn-modelling/deployment.md` (production considerations) | ⬜ Pending |
+| 4.1 | Create `docs/use-cases/index.md` (overview of all use cases) | ✅ Completed |
+| 4.2 | Create `docs/use-cases/churn-modelling/index.md` (problem overview) | ✅ Completed |
+| 4.3 | Create `docs/use-cases/churn-modelling/data.md` (data understanding) | ✅ Completed |
+| 4.4 | Create `docs/use-cases/churn-modelling/features.md` (feature engineering) | ✅ Completed |
+| 4.5 | Create `docs/use-cases/churn-modelling/modelling.md` (model building) | ✅ Completed |
+| 4.6 | Create `docs/use-cases/churn-modelling/deployment.md` (production considerations) | ✅ Completed |
 
 ---
 
@@ -50,7 +50,7 @@ This document tracks the implementation progress for building the Practical ML S
 
 | Task | File | Status |
 |------|------|--------|
-| 5.1 | Create `notebooks/churn-modelling.ipynb` with Colab badge integration | ⬜ Pending |
+| 5.1 | Create `notebooks/churn-modelling.ipynb` with Colab badge integration | ✅ Completed |
 
 ---
 
@@ -58,8 +58,8 @@ This document tracks the implementation progress for building the Practical ML S
 
 | Task | File | Status |
 |------|------|--------|
-| 6.1 | Create `docs/contributors/index.md` (hub + how to contribute) | ⬜ Pending |
-| 6.2 | Create `docs/contributors/profiles/template.md` (contributor template) | ⬜ Pending |
+| 6.1 | Create `docs/contributors/index.md` (hub + how to contribute) | ✅ Completed |
+| 6.2 | Create `docs/contributors/profiles/template.md` (contributor template) | ✅ Completed |
 
 ---
 
@@ -67,8 +67,8 @@ This document tracks the implementation progress for building the Practical ML S
 
 | Task | File | Status |
 |------|------|--------|
-| 7.1 | Create `docs/resources/datasets.md` with curated dataset links | ⬜ Pending |
-| 7.2 | Create `docs/resources/tools.md` with recommended tools | ⬜ Pending |
+| 7.1 | Create `docs/resources/datasets.md` with curated dataset links | ✅ Completed |
+| 7.2 | Create `docs/resources/tools.md` with recommended tools | ✅ Completed |
 
 ---
 
@@ -76,7 +76,7 @@ This document tracks the implementation progress for building the Practical ML S
 
 | Task | File | Status |
 |------|------|--------|
-| 8.1 | Create `.github/workflows/deploy.yml` for auto-deployment to GitHub Pages | ⬜ Pending |
+| 8.1 | Create `.github/workflows/deploy.yml` for auto-deployment to GitHub Pages | ✅ Completed |
 
 ---
 
@@ -84,8 +84,8 @@ This document tracks the implementation progress for building the Practical ML S
 
 | Task | File | Status |
 |------|------|--------|
-| 9.1 | Remove old `index.html` placeholder | ⬜ Pending |
-| 9.2 | Update `README.md` with project info and setup instructions | ⬜ Pending |
+| 9.1 | Remove old `index.html` placeholder | ✅ Completed |
+| 9.2 | Update `README.md` with project info and setup instructions | ✅ Completed |
 
 ---
 
